@@ -1,2 +1,4 @@
 npx create-next-app@latest <folder name>
+npm i react-icons
+npm install tailwind-merge
 npm run dev to run
