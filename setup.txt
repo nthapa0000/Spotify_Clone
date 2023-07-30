@@ -2,3 +2,8 @@ npx create-next-app@latest <folder name>
 npm i react-icons
 npm install tailwind-merge
 npm run dev to run
+
+use this command when you are getting LF to CRLF error
+git config --global core.autocrlf true
+
+Supabase
