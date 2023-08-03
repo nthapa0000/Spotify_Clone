@@ -17,3 +17,8 @@ Supabase
 
  Radix
  npm install @radix-ui/react-dialog
+
+ npm install zustand
+
+ npm install @supabase/auth-ui-react
+ npm i @supabase/auth-ui-shared
