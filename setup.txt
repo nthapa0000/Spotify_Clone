@@ -7,3 +7,10 @@ use this command when you are getting LF to CRLF error
 git config --global core.autocrlf true
 
 Supabase
+ npm i supabase@">=1.8.1" --save-dev
+ 
+ sbp_f251e712d99f1aa4c91e27252fb541c9bda24dbb
+ npm install @supabase/auth-helpers-nextjs
+ npm i @supabase/auth-helpers-react
+
+ npm i stripe
